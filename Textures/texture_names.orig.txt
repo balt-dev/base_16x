@@ -1,0 +1,33 @@
+#Lines in this file that start with "#" are comment lines.
+#(Empty lines are also comment lines).
+
+NOT_LOADED             _ NOT_LOADED.png
+
+image_too_large        _ image_too_large.png
+
+block_default          _ block_default.png
+block_default_not_set  _ block_default_not_set.png
+
+bent_unknown           _ bent_unknown.png
+save                   _ ent_save.png
+txt                    _ ent_txt.png
+respawn_active         _ ent_respawn_active.png
+respawn_inactive       _ ent_respawn_inactive.png
+waypoint               _ ent_waypoint.png
+waypoint_in_only       _ ent_waypoint_in_only.png
+waypoint_out_only      _ ent_waypoint_out_only.png
+
+ring_shrink            _ ent_ring_shrink.png
+ring_grow              _ ent_ring_grow.png
+ring_pink              _ ent_ring_pink.png
+ring_blue              _ ent_ring_blue.png
+
+skull_green            _ skull_green.png
+skull_red              _ skull_red.png
+
+crosshair              a crosshair.png
+
+picture_gato4          _ pic_gato4.png
+
+monster_gremlin        _ monster_gremlin_(tegan).png
+monster_gremlin_proj   _ monster_gremlin_proj.png

@@ -1,0 +1,30 @@
+ent_ring_blue: ringtex 285cc4
+ent_ring_grow: ringtex df3e23
+ent_ring_pink: ringtex d77bba
+ent_ring_shrink: ringtex 9cdb43
+monster_gremlin_proj: ringtex fffc40
+
+pic_gato4: cat ffffff
+
+NOT_LOADED: blank ff00ff, blank_checker 000000
+NOT_LOADED_PRETTY: blank ff00ff, blank_checker 000000
+image_too_large: blank ff00ff, blank_checker 000000
+block_default_not_set: blank ff00ff, blank_checker 000000
+bent_unknown: blank ff00ff, blank_checker 000000
+
+ent_txt: blank 000000, border ffffff, t_txt ffffff
+
+white: blank ffffff
+block_default: concrete b3b9d1
+
+ent_respawn_active: blank 9cdb43, circle 000000, r 000000, border 000000
+ent_respawn_inactive: blank 6d758d, circle 000000, r 000000, border 000000
+
+skull_green: blank 000000, skull_and_crossbones 9cdb43
+skull_red: blank 000000, skull_and_crossbones df3e23
+
+ent_save: blank fffc40, border 000000, floppydisk_bg 249fde, floppydisk_fg ffffff, floppydisk 000000
+
+ent_waypoint: blank 249fde, circle 000000, w 000000, border 000000
+ent_waypoint_in_only: blank fffc40, circle 000000, w 000000, border 000000
+ent_waypoint_out_only: blank df3e23, circle 000000, w 000000, border 000000
