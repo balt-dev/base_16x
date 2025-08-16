@@ -1,7 +1,7 @@
-ent_ring_blue: ringtex 285cc4
-ent_ring_grow: ringtex df3e23
-ent_ring_pink: ringtex d77bba
-ent_ring_shrink: ringtex 9cdb43
+ent_ring_blue: blank 285cc4
+ent_ring_grow: blank df3e23
+ent_ring_pink: blank d77bba
+ent_ring_shrink: blank 9cdb43
 monster_gremlin_proj: ringtex fffc40
 
 pic_gato4: cat ffffff
